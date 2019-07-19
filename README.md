@@ -1,5 +1,5 @@
 # PythonCar
-# Python hello world project~!
+# Python hello world project
 
 
 class Car:
